@@ -22,4 +22,3 @@ setup(
   packages=find_packages(),
   install_requires=[''] 
 )
-© 2021 GitHub, Inc.
