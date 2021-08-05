@@ -6,6 +6,7 @@
 Dunder methods __str__ and more…
 Class_variable
 '''
+
 class A:
     class_variable = 'hello'
     def __init__(self,name,value):
